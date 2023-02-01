@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="space-around">
+  <img src="Portada.png" width="500"> <img src="Portada.png" width="500">
+</p>
 <!--
 **Trafasan/Trafasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
