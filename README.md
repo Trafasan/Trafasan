@@ -1,10 +1,9 @@
-### Hi there 👋
-<p>
+<p align = "center">
+  <img src="images/Presentación.png">
   <img src="images/Portada.png">
 </p>
-<p>
-  <img src="images/Presentación.png">
-</p>
+
+### Hi there 👋
 <!--
 **Trafasan/Trafasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
