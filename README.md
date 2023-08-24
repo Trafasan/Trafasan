@@ -4,9 +4,9 @@
 </p>
 
 ## Datos de contacto
-<img src="images/Icono_tel.png" width="25" align="center"> **[+34 601 11 69 85](https://api.whatsapp.com/send?phone=%2B34601116985)**
+<img src="images/Icono_telefono.png" width="25" align="center"> **[+34 601 11 69 85](https://api.whatsapp.com/send?phone=%2B34601116985)**
 
-<img src="images/Icono_mail.png" width="25" align="center"> **sandrarequena1999@gmail.com**
+<img src="images/Icono_correo.png" width="25" align="center"> **sandrarequena1999@gmail.com**
 
 <img src="images/Icono_LinkedIn.png" width="25" align="center"> **[Sandra Requena Filiu](https://www.linkedin.com/in/sandra-requena-filiu/)**
 
